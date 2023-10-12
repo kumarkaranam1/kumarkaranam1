@@ -5,5 +5,7 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-Deployed-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
 
 
